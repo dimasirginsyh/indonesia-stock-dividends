@@ -1,0 +1,23 @@
+[
+    {
+        "ex_date": "2022-07-11",
+        "dividend": "10",
+        "payment_date": "2022-08-03",
+        "fiscal_year": "2021",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2005-07-19",
+        "dividend": "4",
+        "payment_date": "",
+        "fiscal_year": "2005",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2005-03-29",
+        "dividend": "11",
+        "payment_date": "",
+        "fiscal_year": "2004",
+        "dividend_type": "final"
+    }
+]

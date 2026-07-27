@@ -1,0 +1,65 @@
+[
+    {
+        "ex_date": "2018-06-27",
+        "dividend": "1",
+        "payment_date": "2018-07-06",
+        "fiscal_year": "2017",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2017-06-12",
+        "dividend": "1",
+        "payment_date": "2017-07-06",
+        "fiscal_year": "2016",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2016-07-11",
+        "dividend": "1",
+        "payment_date": "",
+        "fiscal_year": "2015",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2015-06-22",
+        "dividend": "1",
+        "payment_date": "",
+        "fiscal_year": "2014",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2014-07-07",
+        "dividend": "1",
+        "payment_date": "",
+        "fiscal_year": "2013",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2013-07-02",
+        "dividend": "1",
+        "payment_date": "",
+        "fiscal_year": "2012",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2012-07-09",
+        "dividend": "1",
+        "payment_date": "",
+        "fiscal_year": "2011",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2011-07-19",
+        "dividend": "1",
+        "payment_date": "",
+        "fiscal_year": "2010",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2010-06-28",
+        "dividend": "1",
+        "payment_date": "",
+        "fiscal_year": "2009",
+        "dividend_type": "final"
+    }
+]

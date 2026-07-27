@@ -1,0 +1,86 @@
+[
+    {
+        "ex_date": "2026-07-03",
+        "dividend": "7.96",
+        "payment_date": "2026-07-24",
+        "fiscal_year": "2025",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2025-07-07",
+        "dividend": "9.89",
+        "payment_date": "2025-07-30",
+        "fiscal_year": "2024",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2024-07-05",
+        "dividend": "9.72",
+        "payment_date": "2024-07-26",
+        "fiscal_year": "2023",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2023-07-11",
+        "dividend": "3.88168",
+        "payment_date": "2023-08-02",
+        "fiscal_year": "2022",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2019-06-28",
+        "dividend": "11.22",
+        "payment_date": "2019-07-08",
+        "fiscal_year": "2018",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2017-03-13",
+        "dividend": "13.28847",
+        "payment_date": "2017-03-23",
+        "fiscal_year": "2016",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2016-07-12",
+        "dividend": "13.28847",
+        "payment_date": "",
+        "fiscal_year": "2015",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2014-05-16",
+        "dividend": "2.85142",
+        "payment_date": "",
+        "fiscal_year": "2013",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2013-05-20",
+        "dividend": "2.85142",
+        "payment_date": "",
+        "fiscal_year": "2012",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2012-05-22",
+        "dividend": "2.85142",
+        "payment_date": "",
+        "fiscal_year": "2011",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2011-05-13",
+        "dividend": "5.70284",
+        "payment_date": "",
+        "fiscal_year": "2010",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2010-09-15",
+        "dividend": "0.57028",
+        "payment_date": "",
+        "fiscal_year": "2009",
+        "dividend_type": "final"
+    }
+]

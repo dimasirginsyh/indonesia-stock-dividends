@@ -1,0 +1,51 @@
+[
+    {
+        "ex_date": "2015-06-23",
+        "dividend": "3.35",
+        "payment_date": "",
+        "fiscal_year": "2014",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2014-08-13",
+        "dividend": "2.5",
+        "payment_date": "",
+        "fiscal_year": "2013",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2013-08-13",
+        "dividend": "2.0",
+        "payment_date": "",
+        "fiscal_year": "2012",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2011-08-03",
+        "dividend": "2.75",
+        "payment_date": "",
+        "fiscal_year": "2010",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2010-07-05",
+        "dividend": "2.5",
+        "payment_date": "",
+        "fiscal_year": "2009",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2009-07-28",
+        "dividend": "2.2",
+        "payment_date": "",
+        "fiscal_year": "2008",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2008-07-18",
+        "dividend": "2.75",
+        "payment_date": "",
+        "fiscal_year": "2007",
+        "dividend_type": "final"
+    }
+]

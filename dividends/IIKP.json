@@ -1,0 +1,16 @@
+[
+    {
+        "ex_date": "2008-05-14",
+        "dividend": "0.124",
+        "payment_date": "",
+        "fiscal_year": "2007",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2007-07-10",
+        "dividend": "0.067",
+        "payment_date": "",
+        "fiscal_year": "2006",
+        "dividend_type": "final"
+    }
+]

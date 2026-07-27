@@ -1,0 +1,93 @@
+[
+    {
+        "ex_date": "2026-06-12",
+        "dividend": "8.27",
+        "payment_date": "2026-07-03",
+        "fiscal_year": "2025",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2025-06-20",
+        "dividend": "8.2",
+        "payment_date": "2025-07-11",
+        "fiscal_year": "2024",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2023-06-15",
+        "dividend": "16.5",
+        "payment_date": "2023-07-07",
+        "fiscal_year": "2022",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2022-07-04",
+        "dividend": "49.0",
+        "payment_date": "2022-07-27",
+        "fiscal_year": "2021",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2021-08-03",
+        "dividend": "25.0",
+        "payment_date": "2021-08-25",
+        "fiscal_year": "2020",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2019-06-14",
+        "dividend": "12.0",
+        "payment_date": "2019-06-21",
+        "fiscal_year": "2019",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2019-06-10",
+        "dividend": "12.0",
+        "payment_date": "",
+        "fiscal_year": "2018",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2017-06-15",
+        "dividend": "12.0",
+        "payment_date": "2017-07-07",
+        "fiscal_year": "2016",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2016-06-16",
+        "dividend": "9.0",
+        "payment_date": "",
+        "fiscal_year": "2015",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2015-07-03",
+        "dividend": "8.0",
+        "payment_date": "",
+        "fiscal_year": "2014",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2014-07-07",
+        "dividend": "17.0",
+        "payment_date": "",
+        "fiscal_year": "2014",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2014-06-24",
+        "dividend": "17.0",
+        "payment_date": "",
+        "fiscal_year": "2013",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2009-07-03",
+        "dividend": "40.0",
+        "payment_date": "",
+        "fiscal_year": "2008",
+        "dividend_type": "final"
+    }
+]

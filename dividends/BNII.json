@@ -1,0 +1,107 @@
+[
+    {
+        "ex_date": "2026-04-28",
+        "dividend": "7.61",
+        "payment_date": "2026-05-13",
+        "fiscal_year": "2025",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2025-04-23",
+        "dividend": "5.86",
+        "payment_date": "2025-05-09",
+        "fiscal_year": "2024",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2024-04-18",
+        "dividend": "10.29365",
+        "payment_date": "2024-04-30",
+        "fiscal_year": "2023",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2023-04-12",
+        "dividend": "7.72061",
+        "payment_date": "2023-04-28",
+        "fiscal_year": "2022",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2022-04-05",
+        "dividend": "6.47496",
+        "payment_date": "2022-04-28",
+        "fiscal_year": "2021",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2021-04-07",
+        "dividend": "3.32308",
+        "payment_date": "2021-04-29",
+        "fiscal_year": "2020",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2020-04-08",
+        "dividend": "4.83505",
+        "payment_date": "2020-04-29",
+        "fiscal_year": "2019",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2019-04-10",
+        "dividend": "7.19862",
+        "payment_date": "2019-04-30",
+        "fiscal_year": "2018",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2018-04-16",
+        "dividend": "5.29717",
+        "payment_date": "2018-05-04",
+        "fiscal_year": "2017",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2017-04-10",
+        "dividend": "5.71909",
+        "payment_date": "2017-04-26",
+        "fiscal_year": "2016",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2009-04-30",
+        "dividend": "2.72521",
+        "payment_date": "",
+        "fiscal_year": "2008",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2008-06-09",
+        "dividend": "3.81339",
+        "payment_date": "",
+        "fiscal_year": "2007",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2007-06-13",
+        "dividend": "4.95836",
+        "payment_date": "",
+        "fiscal_year": "2006",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2006-05-17",
+        "dividend": "4.99621",
+        "payment_date": "",
+        "fiscal_year": "2005",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2005-05-20",
+        "dividend": "4.8732",
+        "payment_date": "",
+        "fiscal_year": "2004",
+        "dividend_type": "final"
+    }
+]

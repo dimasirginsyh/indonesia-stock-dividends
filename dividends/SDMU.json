@@ -1,0 +1,23 @@
+[
+    {
+        "ex_date": "2014-05-21",
+        "dividend": "2.77",
+        "payment_date": "",
+        "fiscal_year": "2013",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2013-07-08",
+        "dividend": "2.4",
+        "payment_date": "",
+        "fiscal_year": "2012",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2012-06-15",
+        "dividend": "2.12",
+        "payment_date": "",
+        "fiscal_year": "2011",
+        "dividend_type": "final"
+    }
+]

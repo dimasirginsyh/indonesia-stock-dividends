@@ -1,0 +1,30 @@
+[
+    {
+        "ex_date": "2023-10-18",
+        "dividend": "63",
+        "payment_date": "2023-10-24",
+        "fiscal_year": "2023",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2023-07-11",
+        "dividend": "47",
+        "payment_date": "2023-08-02",
+        "fiscal_year": "2022",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2022-12-08",
+        "dividend": "15",
+        "payment_date": "2022-12-13",
+        "fiscal_year": "2022",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2022-09-26",
+        "dividend": "60",
+        "payment_date": "2022-09-29",
+        "fiscal_year": "2021",
+        "dividend_type": "final"
+    }
+]

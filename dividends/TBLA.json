@@ -1,0 +1,240 @@
+[
+    {
+        "ex_date": "2026-06-30",
+        "dividend": "60.0",
+        "payment_date": "2026-07-22",
+        "fiscal_year": "2025",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2025-06-19",
+        "dividend": "12.0",
+        "payment_date": "2025-07-09",
+        "fiscal_year": "2024",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2024-11-13",
+        "dividend": "35.0",
+        "payment_date": "2024-12-04",
+        "fiscal_year": "2024",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2024-06-25",
+        "dividend": "40.0",
+        "payment_date": "2024-07-10",
+        "fiscal_year": "2023",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2023-05-24",
+        "dividend": "20.0",
+        "payment_date": "2023-06-14",
+        "fiscal_year": "2022",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2022-12-12",
+        "dividend": "39.47761",
+        "payment_date": "2022-12-21",
+        "fiscal_year": "2022",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2022-07-11",
+        "dividend": "49.34702",
+        "payment_date": "2022-08-02",
+        "fiscal_year": "2021",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2021-08-10",
+        "dividend": "24.67351",
+        "payment_date": "2021-09-02",
+        "fiscal_year": "2020",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2020-08-28",
+        "dividend": "24.67351",
+        "payment_date": "2020-09-16",
+        "fiscal_year": "2019",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2019-07-02",
+        "dividend": "24.67351",
+        "payment_date": "2019-07-16",
+        "fiscal_year": "2018",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2018-06-05",
+        "dividend": "44.41231",
+        "payment_date": "2018-06-26",
+        "fiscal_year": "2017",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2017-12-27",
+        "dividend": "29.60821",
+        "payment_date": "2018-01-10",
+        "fiscal_year": "2017",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2017-06-14",
+        "dividend": "29.60821",
+        "payment_date": "2017-07-07",
+        "fiscal_year": "2016",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2016-08-11",
+        "dividend": "19.73881",
+        "payment_date": "",
+        "fiscal_year": "2016",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2016-06-20",
+        "dividend": "3.94776",
+        "payment_date": "",
+        "fiscal_year": "2015",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2015-09-28",
+        "dividend": "7.89552",
+        "payment_date": "",
+        "fiscal_year": "2015",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2015-06-15",
+        "dividend": "14.8041",
+        "payment_date": "",
+        "fiscal_year": "2014",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2014-08-29",
+        "dividend": "11.84328",
+        "payment_date": "",
+        "fiscal_year": "2013",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2013-09-27",
+        "dividend": "6.90858",
+        "payment_date": "",
+        "fiscal_year": "2013",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2013-07-03",
+        "dividend": "2.96082",
+        "payment_date": "",
+        "fiscal_year": "2012",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2012-11-29",
+        "dividend": "11.84328",
+        "payment_date": "",
+        "fiscal_year": "2012",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2012-07-06",
+        "dividend": "6.41511",
+        "payment_date": "",
+        "fiscal_year": "2011",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2011-09-29",
+        "dividend": "19.73881",
+        "payment_date": "",
+        "fiscal_year": "2011",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2011-06-14",
+        "dividend": "7.59944",
+        "payment_date": "",
+        "fiscal_year": "2010",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2010-11-29",
+        "dividend": "7.89552",
+        "payment_date": "",
+        "fiscal_year": "2010",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2010-06-16",
+        "dividend": "1.97388",
+        "payment_date": "",
+        "fiscal_year": "2009",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2009-11-23",
+        "dividend": "7.89552",
+        "payment_date": "",
+        "fiscal_year": "2008",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2008-09-09",
+        "dividend": "17.13329",
+        "payment_date": "",
+        "fiscal_year": "2008",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2008-07-11",
+        "dividend": "3.17795",
+        "payment_date": "",
+        "fiscal_year": "2007",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2007-11-30",
+        "dividend": "3.73063",
+        "payment_date": "",
+        "fiscal_year": "2007",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2007-07-19",
+        "dividend": "3.44442",
+        "payment_date": "",
+        "fiscal_year": "2006",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2006-07-21",
+        "dividend": "0.77968",
+        "payment_date": "",
+        "fiscal_year": "2005",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2005-07-18",
+        "dividend": "2.96082",
+        "payment_date": "",
+        "fiscal_year": "2004",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2004-07-20",
+        "dividend": "4.9347",
+        "payment_date": "",
+        "fiscal_year": "2003",
+        "dividend_type": "final"
+    }
+]

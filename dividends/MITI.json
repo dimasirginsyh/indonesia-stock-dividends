@@ -1,0 +1,30 @@
+[
+    {
+        "ex_date": "2024-07-02",
+        "dividend": "3.0",
+        "payment_date": "2024-07-18",
+        "fiscal_year": "2023",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2023-06-06",
+        "dividend": "1.5",
+        "payment_date": "2023-06-22",
+        "fiscal_year": "2022",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2022-06-06",
+        "dividend": "1.0",
+        "payment_date": "2022-06-22",
+        "fiscal_year": "2021",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2013-06-17",
+        "dividend": "19.72651",
+        "payment_date": "",
+        "fiscal_year": "2012",
+        "dividend_type": "final"
+    }
+]

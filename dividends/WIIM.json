@@ -1,0 +1,86 @@
+[
+    {
+        "ex_date": "2025-06-10",
+        "dividend": "64.8",
+        "payment_date": "2025-06-18",
+        "fiscal_year": "2024",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2024-06-05",
+        "dividend": "107.1",
+        "payment_date": "2024-06-27",
+        "fiscal_year": "2023",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2023-06-09",
+        "dividend": "72.9",
+        "payment_date": "2023-06-27",
+        "fiscal_year": "2022",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2022-07-06",
+        "dividend": "21.6",
+        "payment_date": "2022-07-27",
+        "fiscal_year": "2021",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2021-08-05",
+        "dividend": "20.5",
+        "payment_date": "2021-08-27",
+        "fiscal_year": "2020",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2020-08-06",
+        "dividend": "3.5",
+        "payment_date": "2020-08-27",
+        "fiscal_year": "2019",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2019-05-31",
+        "dividend": "2.5",
+        "payment_date": "2019-06-21",
+        "fiscal_year": "2018",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2017-05-30",
+        "dividend": "15.5",
+        "payment_date": "2017-06-21",
+        "fiscal_year": "2016",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2016-05-26",
+        "dividend": "25.0",
+        "payment_date": "",
+        "fiscal_year": "2015",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2015-05-28",
+        "dividend": "13.5",
+        "payment_date": "",
+        "fiscal_year": "2014",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2014-06-18",
+        "dividend": "18.9",
+        "payment_date": "",
+        "fiscal_year": "2013",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2013-06-19",
+        "dividend": "3.6",
+        "payment_date": "",
+        "fiscal_year": "2012",
+        "dividend_type": "final"
+    }
+]

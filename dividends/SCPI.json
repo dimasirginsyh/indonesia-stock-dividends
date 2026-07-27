@@ -1,0 +1,23 @@
+[
+    {
+        "ex_date": "2023-12-01",
+        "dividend": "42000",
+        "payment_date": "",
+        "fiscal_year": "2023",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2023-06-15",
+        "dividend": "50000",
+        "payment_date": "",
+        "fiscal_year": "2022",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2022-11-23",
+        "dividend": "45000",
+        "payment_date": "",
+        "fiscal_year": "2021",
+        "dividend_type": "final"
+    }
+]

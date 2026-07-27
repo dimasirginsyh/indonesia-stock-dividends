@@ -1,0 +1,44 @@
+[
+    {
+        "ex_date": "2026-05-04",
+        "dividend": "20.0",
+        "payment_date": "2026-05-22",
+        "fiscal_year": "2025",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2025-06-04",
+        "dividend": "37.0",
+        "payment_date": "2025-06-20",
+        "fiscal_year": "2024",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2024-06-04",
+        "dividend": "24.75",
+        "payment_date": "2024-06-26",
+        "fiscal_year": "2023",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2023-07-11",
+        "dividend": "18.75",
+        "payment_date": "2023-07-21",
+        "fiscal_year": "2022",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2022-06-08",
+        "dividend": "25.0",
+        "payment_date": "2022-06-15",
+        "fiscal_year": "2021",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2021-11-29",
+        "dividend": "6.25",
+        "payment_date": "2021-12-08",
+        "fiscal_year": "2020",
+        "dividend_type": "final"
+    }
+]

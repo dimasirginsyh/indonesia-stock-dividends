@@ -1,0 +1,23 @@
+[
+    {
+        "ex_date": "2011-06-08",
+        "dividend": "4.69203",
+        "payment_date": "",
+        "fiscal_year": "2010",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2010-07-12",
+        "dividend": "4.42869",
+        "payment_date": "",
+        "fiscal_year": "2009",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2009-05-15",
+        "dividend": "1.93816",
+        "payment_date": "",
+        "fiscal_year": "2008",
+        "dividend_type": "final"
+    }
+]

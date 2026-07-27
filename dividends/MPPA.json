@@ -1,0 +1,135 @@
+[
+    {
+        "ex_date": "2016-04-21",
+        "dividend": "26.0",
+        "payment_date": "",
+        "fiscal_year": "2015",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2015-12-02",
+        "dividend": "7.0",
+        "payment_date": "",
+        "fiscal_year": "2015",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2015-05-22",
+        "dividend": "36.0",
+        "payment_date": "",
+        "fiscal_year": "2014",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2014-05-06",
+        "dividend": "186.0",
+        "payment_date": "",
+        "fiscal_year": "2013",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2013-05-16",
+        "dividend": "186.0",
+        "payment_date": "",
+        "fiscal_year": "2012",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2012-05-01",
+        "dividend": "6.0",
+        "payment_date": "",
+        "fiscal_year": "2011",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2011-03-08",
+        "dividend": "300.0",
+        "payment_date": "",
+        "fiscal_year": "2010",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2010-12-27",
+        "dividend": "180.0",
+        "payment_date": "",
+        "fiscal_year": "2010",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2010-06-18",
+        "dividend": "180.0",
+        "payment_date": "",
+        "fiscal_year": "2010",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2010-06-08",
+        "dividend": "16.0",
+        "payment_date": "",
+        "fiscal_year": "2010",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2010-04-29",
+        "dividend": "180.0",
+        "payment_date": "",
+        "fiscal_year": "2009",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2008-04-16",
+        "dividend": "11.5",
+        "payment_date": "",
+        "fiscal_year": "2007",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2007-05-23",
+        "dividend": "10.4",
+        "payment_date": "",
+        "fiscal_year": "2006",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2006-04-26",
+        "dividend": "25.0",
+        "payment_date": "",
+        "fiscal_year": "2005",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2005-06-15",
+        "dividend": "14.0",
+        "payment_date": "",
+        "fiscal_year": "2004",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2004-06-15",
+        "dividend": "13.0",
+        "payment_date": "",
+        "fiscal_year": "2003",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2003-06-11",
+        "dividend": "12.0",
+        "payment_date": "",
+        "fiscal_year": "2002",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2002-04-22",
+        "dividend": "11.0",
+        "payment_date": "",
+        "fiscal_year": "2001",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2001-06-19",
+        "dividend": "31.0",
+        "payment_date": "",
+        "fiscal_year": "2000",
+        "dividend_type": "final"
+    }
+]

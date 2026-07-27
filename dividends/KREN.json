@@ -1,0 +1,72 @@
+[
+    {
+        "ex_date": "2014-06-27",
+        "dividend": "0.09",
+        "payment_date": "",
+        "fiscal_year": "2013",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2011-08-26",
+        "dividend": "0.362",
+        "payment_date": "",
+        "fiscal_year": "2010",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2010-08-06",
+        "dividend": "0.14462",
+        "payment_date": "",
+        "fiscal_year": "2009",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2009-08-14",
+        "dividend": "0.045192",
+        "payment_date": "",
+        "fiscal_year": "2008",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2008-08-28",
+        "dividend": "0.21376",
+        "payment_date": "",
+        "fiscal_year": "2007",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2007-09-20",
+        "dividend": "0.11795",
+        "payment_date": "",
+        "fiscal_year": "2006",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2006-10-09",
+        "dividend": "0.067788",
+        "payment_date": "",
+        "fiscal_year": "2005",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2005-10-14",
+        "dividend": "0.067788",
+        "payment_date": "",
+        "fiscal_year": "2004",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2004-11-09",
+        "dividend": "0.045192",
+        "payment_date": "",
+        "fiscal_year": "2003",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2003-11-05",
+        "dividend": "0.033894",
+        "payment_date": "",
+        "fiscal_year": "2002",
+        "dividend_type": "final"
+    }
+]

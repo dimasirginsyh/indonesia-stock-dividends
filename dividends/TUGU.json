@@ -1,0 +1,65 @@
+[
+    {
+        "ex_date": "2026-05-11",
+        "dividend": "99.99",
+        "payment_date": "2026-06-03",
+        "fiscal_year": "2025",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2025-05-09",
+        "dividend": "78.85",
+        "payment_date": "2025-05-28",
+        "fiscal_year": "2024",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2024-05-13",
+        "dividend": "123.25628",
+        "payment_date": "2024-05-29",
+        "fiscal_year": "2023",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2023-12-07",
+        "dividend": "25.51219",
+        "payment_date": "2023-12-20",
+        "fiscal_year": "2023",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2023-05-10",
+        "dividend": "39.05424",
+        "payment_date": "2023-05-26",
+        "fiscal_year": "2022",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2022-05-27",
+        "dividend": "35.60404",
+        "payment_date": "2022-06-16",
+        "fiscal_year": "2021",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2021-05-24",
+        "dividend": "26.10002",
+        "payment_date": "2021-06-08",
+        "fiscal_year": "2020",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2020-07-09",
+        "dividend": "38.70269",
+        "payment_date": "2020-07-30",
+        "fiscal_year": "2019",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2019-05-06",
+        "dividend": "20.8",
+        "payment_date": "2019-05-24",
+        "fiscal_year": "2018",
+        "dividend_type": "final"
+    }
+]

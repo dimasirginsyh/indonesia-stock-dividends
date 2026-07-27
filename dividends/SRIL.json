@@ -1,0 +1,51 @@
+[
+    {
+        "ex_date": "2020-07-16",
+        "dividend": "1.0",
+        "payment_date": "2020-08-07",
+        "fiscal_year": "2019",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2019-06-27",
+        "dividend": "3.0",
+        "payment_date": "2019-07-19",
+        "fiscal_year": "2018",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2018-05-28",
+        "dividend": "8.0",
+        "payment_date": "2018-06-21",
+        "fiscal_year": "2017",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2017-05-29",
+        "dividend": "3.0",
+        "payment_date": "2017-06-21",
+        "fiscal_year": "2016",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2016-05-26",
+        "dividend": "3.0",
+        "payment_date": "",
+        "fiscal_year": "2015",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2015-07-07",
+        "dividend": "5.38",
+        "payment_date": "",
+        "fiscal_year": "2014",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2014-07-01",
+        "dividend": "2.0",
+        "payment_date": "",
+        "fiscal_year": "2013",
+        "dividend_type": "final"
+    }
+]

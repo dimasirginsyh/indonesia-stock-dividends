@@ -1,0 +1,65 @@
+[
+    {
+        "ex_date": "2022-12-14",
+        "dividend": "75.1",
+        "payment_date": "2023-01-03",
+        "fiscal_year": "2022",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2022-06-15",
+        "dividend": "15.02",
+        "payment_date": "2022-06-28",
+        "fiscal_year": "2021",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2021-06-17",
+        "dividend": "7.916",
+        "payment_date": "2021-07-09",
+        "fiscal_year": "2020",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2019-05-27",
+        "dividend": "7.792",
+        "payment_date": "2019-06-19",
+        "fiscal_year": "2018",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2018-06-04",
+        "dividend": "49.716",
+        "payment_date": "2018-06-22",
+        "fiscal_year": "2017",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2014-07-04",
+        "dividend": "22.0",
+        "payment_date": "",
+        "fiscal_year": "2013",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2013-06-17",
+        "dividend": "50.4",
+        "payment_date": "",
+        "fiscal_year": "2012",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2012-06-11",
+        "dividend": "76.0",
+        "payment_date": "",
+        "fiscal_year": "2011",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2011-05-31",
+        "dividend": "48.82",
+        "payment_date": "",
+        "fiscal_year": "2010",
+        "dividend_type": "final"
+    }
+]

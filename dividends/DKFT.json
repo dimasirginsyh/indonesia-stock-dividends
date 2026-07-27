@@ -1,0 +1,44 @@
+[
+    {
+        "ex_date": "2026-05-04",
+        "dividend": "35",
+        "payment_date": "2026-05-12",
+        "fiscal_year": "2025",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2025-10-24",
+        "dividend": "25",
+        "payment_date": "2025-10-30",
+        "fiscal_year": "2025",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2025-06-26",
+        "dividend": "10",
+        "payment_date": "2025-07-09",
+        "fiscal_year": "2024",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2014-03-05",
+        "dividend": "50",
+        "payment_date": "",
+        "fiscal_year": "2013",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2013-04-22",
+        "dividend": "50",
+        "payment_date": "",
+        "fiscal_year": "2012",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2012-07-17",
+        "dividend": "20",
+        "payment_date": "",
+        "fiscal_year": "2011",
+        "dividend_type": "final"
+    }
+]

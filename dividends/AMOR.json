@@ -1,0 +1,86 @@
+[
+    {
+        "ex_date": "2026-02-11",
+        "dividend": "13.0",
+        "payment_date": "2026-02-24",
+        "fiscal_year": "2026",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2025-11-14",
+        "dividend": "18.5",
+        "payment_date": "2025-11-24",
+        "fiscal_year": "2025",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2025-02-10",
+        "dividend": "14.0",
+        "payment_date": "2025-02-24",
+        "fiscal_year": "2025",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2024-10-28",
+        "dividend": "27.5",
+        "payment_date": "2025-11-20",
+        "fiscal_year": "2024",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2024-02-12",
+        "dividend": "18.5",
+        "payment_date": "2024-02-23",
+        "fiscal_year": "2024",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2023-11-27",
+        "dividend": "25.0",
+        "payment_date": "2023-12-04",
+        "fiscal_year": "2023",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2023-02-07",
+        "dividend": "16.0",
+        "payment_date": "2023-02-24",
+        "fiscal_year": "2023",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2022-10-27",
+        "dividend": "32.5",
+        "payment_date": "2022-11-11",
+        "fiscal_year": "2022",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2022-02-10",
+        "dividend": "20.0",
+        "payment_date": "2022-02-25",
+        "fiscal_year": "2022",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2021-11-11",
+        "dividend": "30.52922",
+        "payment_date": "2021-12-03",
+        "fiscal_year": "2021",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2021-03-08",
+        "dividend": "13.5",
+        "payment_date": "2021-03-30",
+        "fiscal_year": "2021",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2020-10-16",
+        "dividend": "22.5",
+        "payment_date": "2020-11-06",
+        "fiscal_year": "2020",
+        "dividend_type": "final"
+    }
+]

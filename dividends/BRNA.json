@@ -1,0 +1,100 @@
+[
+    {
+        "ex_date": "2017-05-30",
+        "dividend": "3.0",
+        "payment_date": "2017-06-22",
+        "fiscal_year": "2016",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2015-07-01",
+        "dividend": "17.31335",
+        "payment_date": "",
+        "fiscal_year": "2014",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2013-11-11",
+        "dividend": "22.89863",
+        "payment_date": "",
+        "fiscal_year": "2012",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2012-09-27",
+        "dividend": "17.92067",
+        "payment_date": "",
+        "fiscal_year": "2011",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2011-08-22",
+        "dividend": "17.92067",
+        "payment_date": "",
+        "fiscal_year": "2010",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2010-07-29",
+        "dividend": "17.32331",
+        "payment_date": "",
+        "fiscal_year": "2009",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2009-07-30",
+        "dividend": "17.32331",
+        "payment_date": "",
+        "fiscal_year": "2008",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2008-08-13",
+        "dividend": "4.97796",
+        "payment_date": "",
+        "fiscal_year": "2007",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2005-12-08",
+        "dividend": "4.97796",
+        "payment_date": "",
+        "fiscal_year": "2004",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2004-12-09",
+        "dividend": "4.97796",
+        "payment_date": "",
+        "fiscal_year": "2004",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2004-08-30",
+        "dividend": "4.97796",
+        "payment_date": "",
+        "fiscal_year": "2003",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2003-08-01",
+        "dividend": "19.91185",
+        "payment_date": "",
+        "fiscal_year": "2002",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2001-11-23",
+        "dividend": "14.93389",
+        "payment_date": "",
+        "fiscal_year": "2001",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2001-08-10",
+        "dividend": "14.93389",
+        "payment_date": "",
+        "fiscal_year": "2000",
+        "dividend_type": "final"
+    }
+]

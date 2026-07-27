@@ -1,0 +1,23 @@
+[
+    {
+        "ex_date": "2002-07-29",
+        "dividend": "5",
+        "payment_date": "",
+        "fiscal_year": "2001",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2001-12-07",
+        "dividend": "15",
+        "payment_date": "",
+        "fiscal_year": "2001",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2001-05-08",
+        "dividend": "25",
+        "payment_date": "",
+        "fiscal_year": "2000",
+        "dividend_type": "final"
+    }
+]

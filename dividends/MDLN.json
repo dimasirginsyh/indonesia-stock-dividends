@@ -1,0 +1,30 @@
+[
+    {
+        "ex_date": "2018-06-06",
+        "dividend": "12",
+        "payment_date": "2018-06-27",
+        "fiscal_year": "2017",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2017-07-07",
+        "dividend": "8",
+        "payment_date": "2017-07-21",
+        "fiscal_year": "2016",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2015-06-09",
+        "dividend": "12",
+        "payment_date": "",
+        "fiscal_year": "2014",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2014-08-28",
+        "dividend": "5",
+        "payment_date": "",
+        "fiscal_year": "2013",
+        "dividend_type": "final"
+    }
+]

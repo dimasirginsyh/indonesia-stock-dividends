@@ -1,0 +1,16 @@
+[
+    {
+        "ex_date": "2010-06-08",
+        "dividend": "20",
+        "payment_date": "",
+        "fiscal_year": "2009",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2009-06-15",
+        "dividend": "20",
+        "payment_date": "",
+        "fiscal_year": "2008",
+        "dividend_type": "final"
+    }
+]

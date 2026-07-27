@@ -1,0 +1,23 @@
+[
+    {
+        "ex_date": "2019-05-15",
+        "dividend": "1.0",
+        "payment_date": "2019-05-31",
+        "fiscal_year": "2018",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2018-05-16",
+        "dividend": "4.0",
+        "payment_date": "2018-06-08",
+        "fiscal_year": "2017",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2017-05-31",
+        "dividend": "3.3",
+        "payment_date": "2017-06-22",
+        "fiscal_year": "2016",
+        "dividend_type": "final"
+    }
+]

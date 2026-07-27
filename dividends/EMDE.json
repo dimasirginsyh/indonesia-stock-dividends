@@ -1,0 +1,30 @@
+[
+    {
+        "ex_date": "2017-06-30",
+        "dividend": "2",
+        "payment_date": "",
+        "fiscal_year": "2017",
+        "dividend_type": "interim"
+    },
+    {
+        "ex_date": "2017-06-22",
+        "dividend": "2",
+        "payment_date": "2017-07-14",
+        "fiscal_year": "2016",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2016-07-11",
+        "dividend": "2",
+        "payment_date": "",
+        "fiscal_year": "2015",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2015-07-02",
+        "dividend": "1",
+        "payment_date": "",
+        "fiscal_year": "2014",
+        "dividend_type": "final"
+    }
+]

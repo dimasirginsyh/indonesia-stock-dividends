@@ -1,0 +1,16 @@
+[
+    {
+        "ex_date": "2022-07-26",
+        "dividend": "6.5",
+        "payment_date": "2022-08-12",
+        "fiscal_year": "2021",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2021-08-24",
+        "dividend": "2.5",
+        "payment_date": "2021-09-10",
+        "fiscal_year": "2020",
+        "dividend_type": "final"
+    }
+]

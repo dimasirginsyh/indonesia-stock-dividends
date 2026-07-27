@@ -1,0 +1,44 @@
+[
+    {
+        "ex_date": "2026-04-21",
+        "dividend": "10.0",
+        "payment_date": "2026-05-13",
+        "fiscal_year": "2025",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2025-06-05",
+        "dividend": "8.0",
+        "payment_date": "2025-06-26",
+        "fiscal_year": "2024",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2008-12-05",
+        "dividend": "9.34034",
+        "payment_date": "",
+        "fiscal_year": "2007",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2007-08-02",
+        "dividend": "6.39076",
+        "payment_date": "",
+        "fiscal_year": "2006",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2006-07-28",
+        "dividend": "7.86555",
+        "payment_date": "",
+        "fiscal_year": "2005",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2005-11-29",
+        "dividend": "5.89916",
+        "payment_date": "",
+        "fiscal_year": "2004",
+        "dividend_type": "final"
+    }
+]

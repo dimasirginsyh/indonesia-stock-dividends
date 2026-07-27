@@ -1,0 +1,30 @@
+[
+    {
+        "ex_date": "2026-07-06",
+        "dividend": "4.0",
+        "payment_date": "2026-07-24",
+        "fiscal_year": "2025",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2017-06-16",
+        "dividend": "3.0",
+        "payment_date": "2017-07-12",
+        "fiscal_year": "2016",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2016-05-18",
+        "dividend": "2.8353",
+        "payment_date": "",
+        "fiscal_year": "2015",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2015-08-26",
+        "dividend": "5.94143",
+        "payment_date": "",
+        "fiscal_year": "2014",
+        "dividend_type": "final"
+    }
+]

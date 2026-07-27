@@ -1,0 +1,51 @@
+[
+    {
+        "ex_date": "2026-06-25",
+        "dividend": "52.83",
+        "payment_date": "2026-07-17",
+        "fiscal_year": "2025",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2016-06-01",
+        "dividend": "160.0",
+        "payment_date": "",
+        "fiscal_year": "2015",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2013-07-05",
+        "dividend": "45.5",
+        "payment_date": "",
+        "fiscal_year": "2012",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2011-07-12",
+        "dividend": "45.5",
+        "payment_date": "",
+        "fiscal_year": "2010",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2008-07-29",
+        "dividend": "10.0",
+        "payment_date": "",
+        "fiscal_year": "2007",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2004-06-21",
+        "dividend": "1.25",
+        "payment_date": "",
+        "fiscal_year": "2003",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2000-12-21",
+        "dividend": "37.5",
+        "payment_date": "",
+        "fiscal_year": "1999",
+        "dividend_type": "final"
+    }
+]

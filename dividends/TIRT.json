@@ -1,0 +1,44 @@
+[
+    {
+        "ex_date": "2005-07-20",
+        "dividend": "3.0",
+        "payment_date": "",
+        "fiscal_year": "2004",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2004-07-21",
+        "dividend": "2.5",
+        "payment_date": "",
+        "fiscal_year": "2003",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2003-07-07",
+        "dividend": "4.5",
+        "payment_date": "",
+        "fiscal_year": "2002",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2002-07-12",
+        "dividend": "6.25",
+        "payment_date": "",
+        "fiscal_year": "2001",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2001-07-20",
+        "dividend": "6.25",
+        "payment_date": "",
+        "fiscal_year": "2000",
+        "dividend_type": "final"
+    },
+    {
+        "ex_date": "2000-07-14",
+        "dividend": "6.25",
+        "payment_date": "",
+        "fiscal_year": "1999",
+        "dividend_type": "final"
+    }
+]
