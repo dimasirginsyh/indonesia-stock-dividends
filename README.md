@@ -13,6 +13,9 @@
 
 Kumpulan data riwayat dividen saham untuk perusahaan yang terdaftar di Bursa Efek Indonesia (BEI / IDX). Repositori ini diperbarui secara otomatis secara berkala untuk memastikan data selalu *up-to-date*.
 
+### 📊 Sumber Data
+Data dividen yang digunakan dalam repositori ini bersumber dari [daguerreo-data](https://github.com/mitbal/daguerreo-data).
+
 ### 📂 Struktur Data
 
 Data disediakan dalam format JSON dan dibagi menjadi dua bagian:
@@ -47,6 +50,9 @@ Proses ekstraksi, pemrosesan, dan penyimpanan data dividen dijalankan secara oto
 ## 🇬🇧 English
 
 Historical stock dividend dataset for companies listed on the Indonesia Stock Exchange (IDX). This repository is automatically updated on a regular basis to ensure the data stays current.
+
+### 📊 Data Source
+The dividend data used in this repository is sourced from [daguerreo-data](https://github.com/mitbal/daguerreo-data).
 
 ### 📂 Data Structure
 
