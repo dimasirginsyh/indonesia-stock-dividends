@@ -35300,6 +35300,13 @@
     "SMSM.JK": [
         {
             "dividend": "40.0",
+            "dividend_type": "interim",
+            "ex_date": "2026-08-07",
+            "fiscal_year": "2026",
+            "payment_date": "2026-08-27"
+        },
+        {
+            "dividend": "40.0",
             "dividend_type": "final",
             "ex_date": "2026-06-17",
             "fiscal_year": "2025",
