@@ -30971,6 +30971,13 @@
     ],
     "PTPS.JK": [
         {
+            "dividend": "4.5",
+            "dividend_type": "final",
+            "ex_date": "2026-06-02",
+            "fiscal_year": "2025",
+            "payment_date": "2026-06-11"
+        },
+        {
             "dividend": "3.5",
             "dividend_type": "interim",
             "ex_date": "2025-11-28",
