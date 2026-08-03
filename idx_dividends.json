@@ -36655,6 +36655,13 @@
     ],
     "TAPG.JK": [
         {
+            "dividend": "60.0",
+            "dividend_type": "interim",
+            "ex_date": "2026-08-12",
+            "fiscal_year": "2026",
+            "payment_date": "2026-08-31"
+        },
+        {
             "dividend": "91.0",
             "dividend_type": "final",
             "ex_date": "2026-06-04",
