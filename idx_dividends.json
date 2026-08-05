@@ -2160,6 +2160,13 @@
     ],
     "AMAR.JK": [
         {
+            "dividend": "3.9",
+            "dividend_type": "interim",
+            "ex_date": "2026-08-12",
+            "fiscal_year": "2026",
+            "payment_date": "2026-08-28"
+        },
+        {
             "dividend": "6.11",
             "dividend_type": "final",
             "ex_date": "2026-06-29",
@@ -13223,6 +13230,13 @@
     ],
     "EAST.JK": [
         {
+            "dividend": "2.0",
+            "dividend_type": "interim",
+            "ex_date": "2026-08-11",
+            "fiscal_year": "2026",
+            "payment_date": "2026-08-28"
+        },
+        {
             "dividend": "3.8",
             "dividend_type": "interim",
             "ex_date": "2026-05-08",
@@ -17707,6 +17721,13 @@
         }
     ],
     "IKBI.JK": [
+        {
+            "dividend": "44.31",
+            "dividend_type": "final",
+            "ex_date": "2026-08-11",
+            "fiscal_year": "2025",
+            "payment_date": "2026-08-28"
+        },
         {
             "dividend": "27.69",
             "dividend_type": "final",
@@ -23882,6 +23903,13 @@
     ],
     "MARK.JK": [
         {
+            "dividend": "20",
+            "dividend_type": "interim",
+            "ex_date": "2026-08-14",
+            "fiscal_year": "2026",
+            "payment_date": "2026-09-04"
+        },
+        {
             "dividend": "50",
             "dividend_type": "final",
             "ex_date": "2026-05-20",
@@ -28051,6 +28079,13 @@
         }
     ],
     "NPGF.JK": [
+        {
+            "dividend": "0.3",
+            "dividend_type": "final",
+            "ex_date": "2026-08-10",
+            "fiscal_year": "2026",
+            "payment_date": "2026-09-02"
+        },
         {
             "dividend": "0.28",
             "dividend_type": "final",
@@ -34603,6 +34638,13 @@
         }
     ],
     "SMDR.JK": [
+        {
+            "dividend": "2.5",
+            "dividend_type": "interim",
+            "ex_date": "2026-08-20",
+            "fiscal_year": "2026",
+            "payment_date": "2026-08-28"
+        },
         {
             "dividend": "12.0",
             "dividend_type": "final",

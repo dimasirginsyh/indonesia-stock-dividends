@@ -1,5 +1,12 @@
 [
     {
+        "ex_date": "2026-08-10",
+        "dividend": "0.3",
+        "payment_date": "2026-09-02",
+        "fiscal_year": "2026",
+        "dividend_type": "final"
+    },
+    {
         "ex_date": "2025-06-20",
         "dividend": "0.28",
         "payment_date": "2025-07-07",
