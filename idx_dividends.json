@@ -31683,91 +31683,91 @@
     ],
     "RAJA.JK": [
         {
-            "dividend": "40.0",
+            "dividend": "8.0",
             "dividend_type": "final",
             "ex_date": "2026-07-02",
             "fiscal_year": "2025",
             "payment_date": "2026-07-24"
         },
         {
-            "dividend": "25.0",
+            "dividend": "5.0",
             "dividend_type": "interim",
             "ex_date": "2026-01-09",
             "fiscal_year": "2025",
             "payment_date": "2026-01-28"
         },
         {
-            "dividend": "60.0",
+            "dividend": "12.0",
             "dividend_type": "final",
             "ex_date": "2025-05-14",
             "fiscal_year": "2024",
             "payment_date": "2025-06-04"
         },
         {
-            "dividend": "38.0",
+            "dividend": "7.6",
             "dividend_type": "final",
             "ex_date": "2024-06-07",
             "fiscal_year": "2023",
             "payment_date": "2024-06-28"
         },
         {
-            "dividend": "15.87",
+            "dividend": "3.174",
             "dividend_type": "final",
             "ex_date": "2023-06-09",
             "fiscal_year": "2022",
             "payment_date": "2023-06-27"
         },
         {
-            "dividend": "6.98",
+            "dividend": "1.396",
             "dividend_type": "final",
             "ex_date": "2022-07-01",
             "fiscal_year": "2021",
             "payment_date": "2022-07-22"
         },
         {
-            "dividend": "5.16",
+            "dividend": "1.032",
             "dividend_type": "final",
             "ex_date": "2021-05-06",
             "fiscal_year": "2020",
             "payment_date": "2021-05-27"
         },
         {
-            "dividend": "5.23",
+            "dividend": "1.046",
             "dividend_type": "final",
             "ex_date": "2020-06-17",
             "fiscal_year": "2019",
             "payment_date": "2020-07-08"
         },
         {
-            "dividend": "6.7",
+            "dividend": "1.34",
             "dividend_type": "final",
             "ex_date": "2019-05-13",
             "fiscal_year": "2018",
             "payment_date": "2019-05-31"
         },
         {
-            "dividend": "4.98",
+            "dividend": "0.996",
             "dividend_type": "final",
             "ex_date": "2018-05-08",
             "fiscal_year": "2017",
             "payment_date": "2018-05-31"
         },
         {
-            "dividend": "2.45",
+            "dividend": "0.49",
             "dividend_type": "final",
             "ex_date": "2017-05-26",
             "fiscal_year": "2016",
             "payment_date": "2017-06-16"
         },
         {
-            "dividend": "3.05",
+            "dividend": "0.61",
             "dividend_type": "final",
             "ex_date": "2015-05-08",
             "fiscal_year": "2014",
             "payment_date": ""
         },
         {
-            "dividend": "3.5",
+            "dividend": "0.7",
             "dividend_type": "final",
             "ex_date": "2013-07-02",
             "fiscal_year": "2012",
