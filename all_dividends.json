@@ -8074,6 +8074,13 @@
     ],
     "BMRI.JK": [
         {
+            "dividend": "66",
+            "dividend_type": "interim",
+            "ex_date": "2026-09-16",
+            "fiscal_year": "2026",
+            "payment_date": "2026-10-02"
+        },
+        {
             "dividend": "376.96",
             "dividend_type": "final",
             "ex_date": "2026-05-11",
@@ -30680,6 +30687,13 @@
         }
     ],
     "PSAB.JK": [
+        {
+            "dividend": "30",
+            "dividend_type": "interim",
+            "ex_date": "2026-09-16",
+            "fiscal_year": "2026",
+            "payment_date": "2026-09-29"
+        },
         {
             "dividend": "105",
             "dividend_type": "final",
