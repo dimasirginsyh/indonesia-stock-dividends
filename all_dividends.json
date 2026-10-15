@@ -17,6 +17,13 @@
     ],
     "AALI.JK": [
         {
+            "dividend": "233",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-09",
+            "fiscal_year": "2026",
+            "payment_date": "2026-10-26"
+        },
+        {
             "dividend": "335.0",
             "dividend_type": "final",
             "ex_date": "2026-04-24",
@@ -2534,6 +2541,13 @@
     ],
     "AMRT.JK": [
         {
+            "dividend": "14.5",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-14",
+            "fiscal_year": "2026",
+            "payment_date": "2026-10-27"
+        },
+        {
             "dividend": "41.50",
             "dividend_type": "final",
             "ex_date": "2026-06-15",
@@ -3514,6 +3528,13 @@
     ],
     "ASGR.JK": [
         {
+            "dividend": "297",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-08",
+            "fiscal_year": "2026",
+            "payment_date": "2026-10-26"
+        },
+        {
             "dividend": "211",
             "dividend_type": "final",
             "ex_date": "2026-04-24",
@@ -3802,6 +3823,13 @@
         }
     ],
     "ASII.JK": [
+        {
+            "dividend": "98",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-13",
+            "fiscal_year": "2026",
+            "payment_date": "2026-10-30"
+        },
         {
             "dividend": "292.0",
             "dividend_type": "final",
@@ -4583,6 +4611,13 @@
         }
     ],
     "AUTO.JK": [
+        {
+            "dividend": "72.52",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-14",
+            "fiscal_year": "2026",
+            "payment_date": "2026-10-26"
+        },
         {
             "dividend": "170.0",
             "dividend_type": "final",
@@ -9493,6 +9528,13 @@
     "BSBK.JK": [
         {
             "dividend": "1",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-14",
+            "fiscal_year": "2026",
+            "payment_date": "2026-10-20"
+        },
+        {
+            "dividend": "1",
             "dividend_type": "final",
             "ex_date": "2024-08-13",
             "fiscal_year": "2023",
@@ -9588,6 +9630,13 @@
         }
     ],
     "BSSR.JK": [
+        {
+            "dividend": "406.1609",
+            "dividend_type": "interim",
+            "ex_date": "2026-09-30",
+            "fiscal_year": "2026",
+            "payment_date": "2026-10-09"
+        },
         {
             "dividend": "486.13",
             "dividend_type": "final",
@@ -9978,6 +10027,13 @@
         }
     ],
     "BUAH.JK": [
+        {
+            "dividend": "10",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-19",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-06"
+        },
         {
             "dividend": "12.5",
             "dividend_type": "final",
@@ -11833,6 +11889,13 @@
         }
     ],
     "CSRA.JK": [
+        {
+            "dividend": "15",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-23",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-13"
+        },
         {
             "dividend": "12.2",
             "dividend_type": "interim",
@@ -15290,6 +15353,13 @@
     ],
     "GEMS.JK": [
         {
+            "dividend": "611.93",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-09",
+            "fiscal_year": "2026",
+            "payment_date": "2026-10-22"
+        },
+        {
             "dividend": "237.95",
             "dividend_type": "final",
             "ex_date": "2026-06-02",
@@ -17525,6 +17595,13 @@
     ],
     "IFII.JK": [
         {
+            "dividend": "5",
+            "dividend_type": "interim",
+            "ex_date": "2026-09-29",
+            "fiscal_year": "2026",
+            "payment_date": "2026-10-15"
+        },
+        {
             "dividend": "6",
             "dividend_type": "final",
             "ex_date": "2026-06-17",
@@ -18175,6 +18252,13 @@
         }
     ],
     "IMPC.JK": [
+        {
+            "dividend": "5",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-22",
+            "fiscal_year": "2026",
+            "payment_date": "2026-10-30"
+        },
         {
             "dividend": "4.5",
             "dividend_type": "final",
@@ -21900,6 +21984,13 @@
         }
     ],
     "KKGI.JK": [
+        {
+            "dividend": "20",
+            "dividend_type": "special",
+            "ex_date": "2026-09-24",
+            "fiscal_year": "2025",
+            "payment_date": "2026-10-15"
+        },
         {
             "dividend": "12.0",
             "dividend_type": "final",
@@ -28066,6 +28157,13 @@
     ],
     "NICL.JK": [
         {
+            "dividend": "6",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-05",
+            "fiscal_year": "2026",
+            "payment_date": "2026-10-14"
+        },
+        {
             "dividend": "6.0",
             "dividend_type": "final",
             "ex_date": "2026-05-13",
@@ -29726,6 +29824,13 @@
         }
     ],
     "PLIN.JK": [
+        {
+            "dividend": "76",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-16",
+            "fiscal_year": "2026",
+            "payment_date": "2026-10-27"
+        },
         {
             "dividend": "79.0",
             "dividend_type": "final",
@@ -38378,6 +38483,13 @@
     ],
     "TLDN.JK": [
         {
+            "dividend": "20",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-13",
+            "fiscal_year": "2026",
+            "payment_date": "2026-10-22"
+        },
+        {
             "dividend": "38.65",
             "dividend_type": "final",
             "ex_date": "2026-04-27",
@@ -41020,6 +41132,13 @@
         }
     ],
     "UNTR.JK": [
+        {
+            "dividend": "430",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-07",
+            "fiscal_year": "2026",
+            "payment_date": "2026-10-26"
+        },
         {
             "dividend": "1096.0",
             "dividend_type": "final",
