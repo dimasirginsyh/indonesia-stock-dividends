@@ -4994,6 +4994,13 @@
     ],
     "AXIO.JK": [
         {
+            "dividend": "8",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-29",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-19"
+        },
+        {
             "dividend": "4",
             "dividend_type": "final",
             "ex_date": "2026-06-09",
@@ -12643,6 +12650,13 @@
         }
     ],
     "DMAS.JK": [
+        {
+            "dividend": "29",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-29",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-13"
+        },
         {
             "dividend": "16.5",
             "dividend_type": "final",
@@ -33127,6 +33141,13 @@
     ],
     "SCMA.JK": [
         {
+            "dividend": "8.4",
+            "dividend_type": "interim",
+            "ex_date": "2026-10-28",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-18"
+        },
+        {
             "dividend": "12.0",
             "dividend_type": "final",
             "ex_date": "2026-06-04",
@@ -33983,6 +34004,13 @@
         }
     ],
     "SIDO.JK": [
+        {
+            "dividend": "10",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-03",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-20"
+        },
         {
             "dividend": "15.0",
             "dividend_type": "final",
@@ -40214,6 +40242,13 @@
         }
     ],
     "TSPC.JK": [
+        {
+            "dividend": "75",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-02",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-20"
+        },
         {
             "dividend": "50",
             "dividend_type": "final",
