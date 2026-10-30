@@ -11475,6 +11475,13 @@
     ],
     "CNMA.JK": [
         {
+            "dividend": "4",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-09",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-19"
+        },
+        {
             "dividend": "7",
             "dividend_type": "final",
             "ex_date": "2026-04-15",
@@ -12655,7 +12662,7 @@
             "dividend_type": "interim",
             "ex_date": "2026-10-29",
             "fiscal_year": "2026",
-            "payment_date": "2026-11-13"
+            "payment_date": "2026-11-16"
         },
         {
             "dividend": "16.5",
@@ -20639,6 +20646,13 @@
         }
     ],
     "JPFA.JK": [
+        {
+            "dividend": "90",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-06",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-12"
+        },
         {
             "dividend": "140",
             "dividend_type": "final",
@@ -41177,9 +41191,9 @@
         {
             "dividend": "430",
             "dividend_type": "interim",
-            "ex_date": "2026-10-07",
+            "ex_date": "2026-11-06",
             "fiscal_year": "2026",
-            "payment_date": "2026-10-26"
+            "payment_date": "2026-11-23"
         },
         {
             "dividend": "1096.0",
