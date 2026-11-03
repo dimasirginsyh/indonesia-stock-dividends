@@ -31292,6 +31292,13 @@
     ],
     "PTPS.JK": [
         {
+            "dividend": "2",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-06",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-18"
+        },
+        {
             "dividend": "4.5",
             "dividend_type": "final",
             "ex_date": "2026-06-02",
@@ -35647,6 +35654,13 @@
         }
     ],
     "SMSM.JK": [
+        {
+            "dividend": "45",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-10",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-26"
+        },
         {
             "dividend": "40.0",
             "dividend_type": "interim",
