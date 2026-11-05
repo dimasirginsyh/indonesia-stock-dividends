@@ -4930,6 +4930,13 @@
     "AVIA.JK": [
         {
             "dividend": "12",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-11",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-19"
+        },
+        {
+            "dividend": "12",
             "dividend_type": "final",
             "ex_date": "2026-04-20",
             "fiscal_year": "2025",
@@ -10310,6 +10317,13 @@
         }
     ],
     "BWPT.JK": [
+        {
+            "dividend": "1",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-11",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-25"
+        },
         {
             "dividend": "4.98795",
             "dividend_type": "final",
@@ -17622,6 +17636,13 @@
         }
     ],
     "IFII.JK": [
+        {
+            "dividend": "5",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-12",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-26"
+        },
         {
             "dividend": "5",
             "dividend_type": "interim",
@@ -25346,6 +25367,13 @@
     ],
     "META.JK": [
         {
+            "dividend": "3.5",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-10",
+            "fiscal_year": "2026",
+            "payment_date": "2026-12-03"
+        },
+        {
             "dividend": "2.62",
             "dividend_type": "final",
             "ex_date": "2026-06-09",
@@ -25854,6 +25882,13 @@
         }
     ],
     "MIDI.JK": [
+        {
+            "dividend": "3.8",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-12",
+            "fiscal_year": "2026",
+            "payment_date": "2026-12-01"
+        },
         {
             "dividend": "11.85",
             "dividend_type": "final",
@@ -36731,6 +36766,13 @@
     ],
     "SSMS.JK": [
         {
+            "dividend": "52.49",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-11",
+            "fiscal_year": "2026",
+            "payment_date": "2026-12-02"
+        },
+        {
             "dividend": "83.99",
             "dividend_type": "final",
             "ex_date": "2026-05-12",
@@ -37010,6 +37052,13 @@
         }
     ],
     "TAPG.JK": [
+        {
+            "dividend": "70",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-11",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-27"
+        },
         {
             "dividend": "60.0",
             "dividend_type": "interim",
