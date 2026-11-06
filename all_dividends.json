@@ -4478,6 +4478,13 @@
     ],
     "ASSA.JK": [
         {
+            "dividend": "20",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-13",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-20"
+        },
+        {
             "dividend": "30.0",
             "dividend_type": "final",
             "ex_date": "2026-06-26",
@@ -24164,6 +24171,13 @@
         {
             "dividend": "20",
             "dividend_type": "interim",
+            "ex_date": "2026-11-13",
+            "fiscal_year": "2026",
+            "payment_date": "2026-12-04"
+        },
+        {
+            "dividend": "20",
+            "dividend_type": "interim",
             "ex_date": "2026-08-14",
             "fiscal_year": "2026",
             "payment_date": "2026-09-04"
@@ -25366,6 +25380,13 @@
         }
     ],
     "META.JK": [
+        {
+            "dividend": "3.5",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-12",
+            "fiscal_year": "2026",
+            "payment_date": "2026-12-03"
+        },
         {
             "dividend": "3.5",
             "dividend_type": "interim",
@@ -34631,6 +34652,13 @@
         }
     ],
     "SMAR.JK": [
+        {
+            "dividend": "490",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-13",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-26"
+        },
         {
             "dividend": "270",
             "dividend_type": "final",
