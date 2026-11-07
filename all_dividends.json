@@ -39078,6 +39078,13 @@
     ],
     "TOTL.JK": [
         {
+            "dividend": "40",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-17",
+            "fiscal_year": "2026",
+            "payment_date": "2026-12-04"
+        },
+        {
             "dividend": "110.0",
             "dividend_type": "final",
             "ex_date": "2026-05-19",
@@ -42902,6 +42909,13 @@
         }
     ],
     "YUPI.JK": [
+        {
+            "dividend": "14.8347396372",
+            "dividend_type": "interim",
+            "ex_date": "2026-11-17",
+            "fiscal_year": "2026",
+            "payment_date": "2026-11-26"
+        },
         {
             "dividend": "17.01",
             "dividend_type": "interim",
