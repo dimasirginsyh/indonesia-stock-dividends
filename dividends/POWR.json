@@ -1,5 +1,12 @@
 [
     {
+        "ex_date": "2026-11-23",
+        "dividend": "31.27592",
+        "payment_date": "2026-12-11",
+        "fiscal_year": "2026",
+        "dividend_type": "interim"
+    },
+    {
         "ex_date": "2026-05-21",
         "dividend": "49.52720",
         "payment_date": "2026-06-05",
